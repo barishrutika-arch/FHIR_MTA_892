@@ -11,7 +11,7 @@ A containerized HAPI FHIR server is deployed using Docker.
 FHIR profiles created using FSH ensure semantic integrity.
 
 ## Translator
-Legacy CSV data is translated into FHIR-compliant resources.
+Healthcare CSV data is translated into FHIR-compliant resources.
 
 ## Architect’s Narrative
 
